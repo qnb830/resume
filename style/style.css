@@ -20,6 +20,7 @@
 .activities,
 .strength,
 .hobbies,
+.skill,
 .declaration {
   margin-top: 20px;
   padding-left: 5%;
@@ -91,4 +92,9 @@ hr {
   position: fixed;
   top: 0;
   width: 100%;
+}
+
+.fortable {
+  padding-left: 10px;
+  padding-right: 10px;
 }
