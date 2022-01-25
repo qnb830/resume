@@ -98,3 +98,8 @@ hr {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+.subHeading {
+  font-weight: bold;
+  color: gray;
+}
